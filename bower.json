@@ -1,6 +1,6 @@
 {
   "name": "jquery-textchange",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "authors": [
     "ZURB"
   ],
@@ -19,5 +19,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "1.7.2"
+  }
 }
